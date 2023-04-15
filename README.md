@@ -4,4 +4,4 @@ LibReaper is a small collection of scripts that handles some of the basic things
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/b1SscYT/image-2023-04-15-091739327.png" alt="image-2023-04-15-091739327" border="0"></a>
 
 ## Usage
-LibReaper is designed to be a collection of independant scripts are opposed to a conventional compiled library, this allows you to be more efficient when programming as you can easily remove parts you dont need from it to make your program smaller or more efficient.
+LibReaper is designed to be a collection of independant scripts are opposed to a conventional compiled library, this allows you to be more efficient when programming as you can easily remove parts you dont need from it to make your program smaller or more efficient. Please note LibReaper was designed to be used with ARM assembly only and was intended to be used with the VASM assembler.
