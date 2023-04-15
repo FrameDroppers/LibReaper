@@ -5,3 +5,4 @@ LibReaper is a small collection of scripts that handles some of the basic things
 
 ## Usage
 LibReaper is designed to be a collection of independant scripts are opposed to a conventional compiled library, this allows you to be more efficient when programming as you can easily remove parts you dont need from it to make your program smaller or more efficient. Please note LibReaper was designed to be used with ARM assembly only and was intended to be used with the VASM assembler.
+A simple example can be found <a href="https://github.com/FrameDroppers/LibReaper-Example">here</a>.
